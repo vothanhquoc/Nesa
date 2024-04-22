@@ -1,6 +1,6 @@
 # Nesa
 Tired of Magic Black Boxes? Enter Nesa, the Trustworthy AI Layer-1
-![image](https://example.com/your-image.png)
+
 
 
 Imagine a world where AI works like magic, but you understand exactly how the spell is cast. That's the future Nesa is building: a golden age of trustworthy AI, powered by the magic of blockchain.
@@ -30,7 +30,6 @@ Team :
 Introducing Dr. Harry Yang, the newest member of Nesa's leadership team. Dr. Yang, previously at Facebook AI, developed Make-a-Video, Meta's AI-powered platform enabling text-to-video conversion. With expertise in LLM design and computer vision, he boasts numerous accolades including thousands of citations for deep learning research, IEEE and CVPR highlights, and an AI professorship invitation. Dr. Yang holds a PhD in AI from USC and an MSc in Computer Science.
 
 
-![image](https://example.com/your-image.png)
 
 
 Join the Nesa revolution and be part of the magic!
